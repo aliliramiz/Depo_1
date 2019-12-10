@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AGAA,OAAO,CAAC,4LAAI",
+    "sources": [
+        "style.scss",
+        "sharred/_variables.scss",
+        "sharred/_mixings.scss",
+        "sharred/_fonts.scss",
+        "components/_footer.scss",
+        "components/_header.scss",
+        "pages/index.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

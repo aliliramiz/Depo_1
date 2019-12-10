@@ -1,0 +1,12 @@
+//global css
+@import "sharred/variables";
+@import "sharred/mixings";
+@import "sharred/fonts";
+
+//components
+@import "components/footer";
+@import "components/header";
+
+
+//pages
+@import "pages/index.scss";

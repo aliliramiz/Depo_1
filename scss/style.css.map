@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AGAA,OAAO,CAAC,4LAAI",
+    "mappings": "AGAA,OAAO,CAAC,4LAAI;AGAZ,AAAA,QAAQ,CAAA;EACJ,OAAO,EAAE,SAAS;EAClB,gBAAgB,EAAE,4BAA4B;EAC9C,mBAAmB,EAAE,QAAQ;EAC7B,iBAAiB,EAAE,SAAS;EAC5B,qBAAqB,EAAE,KAAK;EAC5B,QAAQ,EAAE,QAAQ;CA6BrB;;AAnCD,AAOI,QAPI,AAOH,OAAO,CAAA;EACJ,OAAO,EAAE,EAAE;EACX,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,GAAG,EAAE,CAAC;EACN,IAAI,EAAE,CAAC;EACP,gBAAgB,ELPT,oBAAoB;CKS9B;;AAhBL,AAkBI,QAlBI,CAkBJ,KAAK,CAAA;EACD,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,CAAC;CAcb;;AAlCL,AAqBQ,QArBA,CAkBJ,KAAK,CAGD,IAAI,CAAA;EACA,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,KAAK;CACjB;;AAxBT,AA0BQ,QA1BA,CAkBJ,KAAK,CAQD,IAAI,CAAA;EACA,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI;CAEtB",
     "sources": [
         "style.scss",
         "sharred/_variables.scss",
@@ -8,7 +8,7 @@
         "sharred/_fonts.scss",
         "components/_footer.scss",
         "components/_header.scss",
-        "pages/index.scss"
+        "pages/_index.scss"
     ],
     "names": [],
     "file": "style.css"

@@ -1,0 +1,36 @@
+#counter{
+    padding: 120px 0px;
+    background-image: url('../img/counter_bg.jpg');
+    background-position: 50% 88px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    &::after{
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: $opacity-color;
+
+    }
+
+    .item{
+        position: relative;
+        z-index: 1;
+        span{
+            color: white;
+            display: block;
+        }
+
+        .key{
+            font-size: 40px;
+            margin-bottom: 10px;
+
+        }
+        .value{
+
+        }
+    }
+}

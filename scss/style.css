@@ -1,35 +1,66 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=latin-ext");
-#counter {
-  padding: 120px 0px;
-  background-image: url("../img/counter_bg.jpg");
-  background-position: 50% 88px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  position: relative;
+body {
+  overflow-x: hidden;
 }
 
-#counter::after {
-  content: '';
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background-color: rgba(7, 41, 76, 0.7);
+#navbar {
+  background-color: #343a40;
+  width: 1349px;
+  height: 66px;
 }
 
-#counter .item {
-  position: relative;
-  z-index: 1;
-}
-
-#counter .item span {
+#navbar .nav-left .phone {
   color: white;
-  display: block;
+  margin-top: 24px;
+  margin-left: -78px;
 }
 
-#counter .item .key {
-  font-size: 40px;
-  margin-bottom: 10px;
+#navbar .nav-left .phone:hover {
+  color: #ffbc09;
 }
-/*# sourceMappingURL=style.css.map */
+
+#navbar .nav-left .email {
+  margin-left: 50px;
+  color: white;
+  margin-top: -24px;
+}
+
+#navbar .nav-left .email:hover {
+  color: #ffbc09;
+}
+
+#navbar .nav-right .list-group-items {
+  float: right;
+  padding: 20px;
+  list-style-type: none;
+  font-size: 20px;
+  color: white;
+}
+
+#navbar .nav-right .list-group-items .items {
+  margin-left: 5px;
+}
+
+#navbar .nav-right .list-group-items .items:hover {
+  color: #ffbc09;
+}
+
+.global .globals .globalitem .globalitems:hover {
+  color: yellow;
+}
+
+.edutext .edu h3 {
+  text-align: center;
+}
+
+.edutext .edu p {
+  text-align: center;
+}
+
+.edutext .book img {
+  background-color: #f6475f;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-left: 123px;
+  margin-top: 63px;
+}

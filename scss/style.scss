@@ -1,12 +1,11 @@
-//global css
-@import "sharred/variables";
-@import "sharred/mixings";
-@import "sharred/fonts";
+// Globals css
+@import "shared/variables";
+@import "shared/mixings";
 
-//components
-@import "components/footer";
+// Components
 @import "components/header";
+@import "components/footer";
 
 
-//pages
+// Pages
 @import "pages/index";

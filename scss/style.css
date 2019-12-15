@@ -2192,3 +2192,192 @@ footer #end a:hover {
 #statics .statics {
   background-color: rgba(0, 31, 63, 0.651);
 }
+
+.mostpopularcategories .textcategories h3 {
+  text-align: center;
+  color: #2a2c2d;
+}
+
+.mostpopularcategories .textcategories p {
+  text-align: center;
+  color: #939393;
+}
+
+.mostpopularcategories .regular {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.mostpopularcategories .regular .heartbeaticon {
+  height: 123px;
+  width: 200px;
+  background-color: #38ddf7;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .heartbeaticon .fa-heartbeat {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 30px;
+}
+
+.mostpopularcategories .regular .heartbeaticon h4 {
+  color: white;
+  text-align: center;
+}
+
+.mostpopularcategories .regular .codeicon {
+  height: 123px;
+  width: 200px;
+  background-color: #f89035;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .codeicon .fa-code {
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.mostpopularcategories .regular .codeicon h4 {
+  color: white;
+}
+
+.mostpopularcategories .regular .businessicon {
+  height: 123px;
+  width: 200px;
+  background-color: #b3d36a;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .businessicon .fa-chart-bar {
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.mostpopularcategories .regular .businessicon h4 {
+  color: white;
+}
+
+.mostpopularcategories .regular .globeicon {
+  height: 123px;
+  width: 200px;
+  background-color: #f6475f;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .globeicon .fa-globe {
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.mostpopularcategories .regular .globeicon h4 {
+  color: white;
+}
+
+.mostpopularcategories .regular .bookicon {
+  height: 123px;
+  width: 200px;
+  background-color: #ffbc09;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .bookicon .fa-book {
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.mostpopularcategories .regular .bookicon h4 {
+  color: white;
+}
+
+.mostpopularcategories .regular .cameraicon {
+  height: 123px;
+  width: 200px;
+  background-color: #f94fa4;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.mostpopularcategories .regular .cameraicon .fa-camera {
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.mostpopularcategories .regular .cameraicon h4 {
+  color: white;
+}
+
+#about .aboutus {
+  width: 800px;
+  height: 400px;
+  background-color: white;
+  border-radius: 29%;
+}
+
+#about .aboutus .about {
+  position: absolute;
+  left: 66px;
+  top: 10px;
+}
+
+#about .aboutus .main {
+  position: absolute;
+  left: 49px;
+  top: 64px;
+  color: #939393;
+  font-size: 20px;
+  font-size: 20px;
+}
+
+#about .aboutus .text {
+  position: absolute;
+  font-size: 20px;
+  /* bottom: -43px; */
+  left: 47px;
+  top: 192px;
+  color: #939393;
+}
+
+#about .aboutus .number260 {
+  position: absolute;
+  color: #f6475f;
+  top: 268px;
+  left: 71px;
+}
+
+#about .aboutus .free {
+  position: absolute;
+  /* bottom: 25px; */
+  left: 38px;
+  top: 328px;
+}
+
+#about .aboutus .number152 {
+  position: absolute;
+  color: #b3d36a;
+  /* margin-left: 328px; */
+  /* margin-top: -84px; */
+  left: 228px;
+  top: 267px;
+}
+
+#about .aboutus .paid {
+  position: absolute;
+  left: 195px;
+  top: 330px;
+}
